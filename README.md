@@ -1,6 +1,6 @@
 ### Hi there My Name is Adam Arabov 👋
 
-<p align="left"><img src="https://skillicons.dev/icons?i=heroku,postgres,git,github,bash,docker,ts,discord android&perline=16" alt="Tech Stack" /> </p>
+<p align="left"><img src="https://skillicons.dev/icons?i=heroku,postgres,git,github,bash,docker,ts,discord, figma,html,js,mongodb,vscode,sequelize,supabase,replit,redux,react,py,ps,nodejs,nextjs,mongodb android&perline=16" alt="Tech Stack" /> </p>
 
 🔭 I’m currently working on ...
 🌱 I’m currently learning ...
