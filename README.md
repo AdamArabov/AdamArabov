@@ -7,7 +7,7 @@
 
 📝 When I don't code you can find me reading a good book 📕 or playing video games 🎮
 
-<a href="mailto:arabovadam@yahoo.com">📫 You can reach me at arabovadam@yahoo.com</a>
+📫 You can reach me at  <a href="mailto:arabovadam@yahoo.com">arabovadam@yahoo.com</a>
 
 
 
