@@ -7,5 +7,8 @@
 
 📝 When I don't code you can find me reading a good book 📕 or playing video games 🎮
 
+<a href="mailto:arabovadam@yahoo.com">📫 You can reach me at arabovadam@yahoo.com</a>
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdamArabov&show_icons=true&locale=en" alt="jmfayard" /></p>
